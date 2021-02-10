@@ -1,0 +1,6 @@
+---
+plugin: vmware_vm_inventory
+strict: False
+hostname: dst1pvctnw0001.netsmartcore.lan
+validate_certs: False
+with_tags: True
